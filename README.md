@@ -1,7 +1,9 @@
-# Olá, eu sou a Camila Frizzo 👋 Prazer!
+# Olá, eu sou a Camila Frizzo 👋🏻 Prazer!
 
  - 📍 Itaperuna, RJ
  - 💻 Sistemas de Informação, IFF
+ - 📚 Estudando JavaScript, HTML, CSS...
+ - 😊 Pronouns: Ela/Dela
 
 <div>
   <a href="https://github.com/frizzocamila">
