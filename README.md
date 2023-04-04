@@ -11,7 +11,7 @@
 
 <div>
   <img align="left" src="./imgs/cat_computer.gif"/>
-  <p> 📚 7º semestre de Sistemas de Informação no Instituto Federal Fluminense - IFF</p>
+  <p> 📚 8º semestre de Sistemas de Informação no Instituto Federal Fluminense - IFF</p>
   <p> ✨ Entusiasta de tecnologia. Aprendendo sobre Java, JavaScript, HTML e CSS</p>
   <p> 🐱 Amante de gatos. Viciada em livros, filmes e séries, não vivo sem música e não resisto a comida.</p>
 </div>
